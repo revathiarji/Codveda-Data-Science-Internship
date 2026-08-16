@@ -1,0 +1,40 @@
+# Exploratory Data Analysis (EDA) Report
+
+## Dataset
+
+Titanic Dataset
+
+## Objective
+
+The objective of this analysis is to explore the Titanic dataset, understand its structure, identify patterns, and visualize important features.
+
+## Summary Statistics
+
+* The dataset contains 891 rows and 12 columns.
+* Summary statistics such as mean, median, variance, and standard deviation were calculated for numerical columns.
+
+## Visualizations
+
+The following visualizations were created:
+
+* Age Distribution (Histogram)
+* Gender Distribution (Bar Chart)
+* Survival Count (Bar Chart)
+* Passenger Class Distribution (Bar Chart)
+* Fare Distribution (Histogram)
+* Age vs Fare (Scatter Plot)
+* Fare Box Plot
+* Correlation Matrix (Heatmap)
+
+## Key Insights
+
+* Most passengers were male.
+* Most passengers belonged to Passenger Class 3.
+* The majority of passengers were between 20 and 40 years of age.
+* More passengers did not survive than survived.
+* The Fare column contains a few outliers.
+* Most numerical features showed weak to moderate correlation with each other.
+
+## Conclusion
+
+Exploratory Data Analysis helped in understanding the dataset, identifying important patterns, and visualizing the relationships between different features. The generated insights can be useful for further machine learning and predictive analysis.
