@@ -1,0 +1,68 @@
+Unnamed: 0.1,Unnamed: 0,Text,Sentiment,Timestamp,User,Platform,Hashtags,Retweets,Likes,Country,Year,Month,Day,Hour
+0,0,enjoying beautiful day park,Positive,15-01-2023 12:30, User123      , Twitter  , #Nature #Park                            ,15,30, USA      ,2023,1,15,12
+1,1,traffic terrible morning,Negative,15-01-2023 08:45, CommuterX    , Twitter  , #Traffic #Morning                        ,5,10, Canada   ,2023,1,15,8
+2,2,finished amazing workout ðÿ’ª,Positive,15-01-2023 15:45, FitnessFan   , Instagram , #Fitness #Workout                        ,20,40, USA        ,2023,1,15,15
+3,3,excited upcoming weekend getaway,Positive,15-01-2023 18:20, AdventureX   , Facebook , #Travel #Adventure                       ,8,15, UK       ,2023,1,15,18
+4,4,trying new recipe dinner tonight,Neutral,15-01-2023 19:55, ChefCook     , Instagram , #Cooking #Food                           ,12,25, Australia ,2023,1,15,19
+5,5,feeling grateful little things life,Positive,16-01-2023 09:10, GratitudeNow , Twitter  , #Gratitude #PositiveVibes              ,25,50, India    ,2023,1,16,9
+6,6,rainy days call cozy blankets hot cocoa,Positive,16-01-2023 14:45, RainyDays    , Facebook , #RainyDays #Cozy                         ,10,20, Canada   ,2023,1,16,14
+7,7,new movie release mustwatch,Positive,16-01-2023 19:30, MovieBuff    , Instagram , #MovieNight #MustWatch                  ,15,30, USA    ,2023,1,16,19
+8,8,political discussions heating timeline,Negative,17-01-2023 08:00, DebateTalk   , Twitter  , #Politics #Debate                       ,30,60, USA      ,2023,1,17,8
+9,9,missing summer vibes beach days,Neutral,17-01-2023 12:20, BeachLover   , Facebook , #Summer #BeachDays                      ,18,35, Australia ,2023,1,17,12
+10,10,published new blog post check,Positive,17-01-2023 15:15, BloggerX     , Instagram , #Blogging #NewPost                      ,22,45,USA,2023,1,17,15
+11,11,feeling bit weather today,Negative,18-01-2023 10:30, WellnessCheck, Twitter  , #SickDay #Health                        ,7,15, Canada   ,2023,1,18,10
+12,12,exploring citys hidden gems,Positive,18-01-2023 14:50, UrbanExplorer, Facebook , #CityExplore #HiddenGems                ,12,25, UK       ,2023,1,18,14
+13,13,new year new fitness goals ðÿ’ª,Positive,18-01-2023 18:00, FitJourney   , Instagram , #NewYear #FitnessGoals                  ,28,55, USA        ,2023,1,18,18
+14,14,technology changing way live,Neutral,19-01-2023 09:45, TechEnthusiast, Twitter  , #Tech #Innovation                       ,15,30, India    ,2023,1,19,9
+15,15,reflecting past looking ahead,Positive,19-01-2023 13:20, Reflections  , Facebook , #Reflection #Future                     ,20,40, USA      ,2023,1,19,13
+16,16,adopted cute furry friend ðÿ¾,Positive,19-01-2023 17:10, PetAdopter   , Instagram , #PetAdoption #FurryFriend               ,15,30, Canada    ,2023,1,19,17
+17,17,latenight gaming session friends,Positive,20-01-2023 00:05, GamerX       , Twitter  , #Gaming #LateNight                      ,18,35, UK       ,2023,1,20,0
+18,18,attending virtual conference ai,Neutral,20-01-2023 11:30, TechConference, Facebook , #AI #TechConference                     ,25,50,USA,2023,1,20,11
+19,19,winter blues got feeling low,Negative,20-01-2023 15:15, WinterBlues  , Instagram , #WinterBlues #Mood                      ,8,15, USA       ,2023,1,20,15
+20,20,sipping coffee enjoying good book,Positive,21-01-2023 08:40, Bookworm     , Twitter  , #Reading #CoffeeTime                    ,22,45, India    ,2023,1,21,8
+21,21,exploring world virtual reality,Positive,21-01-2023 13:20, VRExplorer   , Facebook , #VR #VirtualReality                     ,15,30,USA,2023,1,21,13
+22,22,productive day ticking todo list,Positive,21-01-2023 16:45, ProductivityPro, Instagram , #Productivity #WorkFromHome           ,30,60, USA ,2023,1,21,16
+23,23,finished challenging workout routine,Positive,22-01-2023 09:15, FitnessWarrior, Twitter  , #Fitness #ChallengeAccepted             ,20,40, UK       ,2023,1,22,9
+24,24,celebrating milestone work ðÿž‰,Positive,22-01-2023 14:30, CareerMilestone, Facebook , #Career #Milestone                      ,12,25, Canada  ,2023,1,22,14
+25,25,sunday brunch friends,Positive,22-01-2023 12:00, BrunchBuddy  , Instagram , #Brunch #Friends                       ,15,30, UK ,2023,1,22,12
+27,28,learning new language personal growth,Positive,23-01-2023 16:20, LanguageLearner, Facebook , #LanguageLearning #PersonalGrowth       ,25,50, India     ,2023,1,23,16
+28,29,quiet evening good book,Positive,23-01-2023 19:45, BookLover    , Instagram , #Reading #QuietTime                     ,15,30, Australia ,2023,1,23,19
+29,30,reflecting importance mental health,Positive,24-01-2023 11:30, MentalHealthMatters, Twitter  , #MentalHealth #SelfCare                 ,22,45, USA      ,2023,1,24,11
+30,31,new painting progress ðÿž¨,Positive,24-01-2023 15:00, ArtistInAction, Facebook , #Art #PaintingInProgress             ,12,25, Canada ,2023,1,24,15
+31,32,weekend road trip explore scenic views,Positive,24-01-2023 17:30, RoadTripper  , Instagram , #RoadTrip #ScenicViews                  ,18,35, UK        ,2023,1,24,17
+32,33,enjoying cup tea watching sunset,Positive,25-01-2023 18:00, SunsetWatcher, Twitter  , #TeaTime #Sunset                       ,15,30, India    ,2023,1,25,18
+33,34,coding new project enthusiasm,Positive,25-01-2023 13:15, CodeEnthusiast, Facebook , #Coding #Enthusiasm                   ,30,60, USA ,2023,1,25,13
+34,35,feeling inspired attending workshop,Positive,26-01-2023 09:45, WorkshopAttendee, Instagram , #Inspiration #Workshop                  ,25,50,USA,2023,1,26,9
+35,36,winter sports day local park,Positive,26-01-2023 14:20, WinterSports  , Twitter  , #WinterSports #Fun                     ,15,30, Canada   ,2023,1,26,14
+36,37,quality time family weekend,Positive,26-01-2023 17:40, FamilyTime   , Facebook , #FamilyTime #Weekend                    ,22,45, UK        ,2023,1,26,17
+37,38,attending live music concert tonight,Positive,27-01-2023 20:00, MusicLover   , Instagram , #Music #ConcertNight                  ,18,35, USA ,2023,1,27,20
+38,39,practicing mindfulness meditation,Positive,27-01-2023 12:30, MindfulMoments, Twitter  , #Mindfulness #Meditation               ,15,30, India    ,2023,1,27,12
+39,40,trying new dessert recipe,Positive,27-01-2023 16:10, DessertExplorer, Facebook , #Dessert #Cooking                      ,12,25, Canada ,2023,1,27,16
+40,41,excited upcoming gaming tournament,Positive,28-01-2023 09:00, GamingEnthusiast, Instagram , #Gaming #Tournament                     ,30,60,USA,2023,1,28,9
+41,42,planning garden makeover spring,Positive,28-01-2023 14:45, GardenPlanner , Twitter  , #Gardening #Spring                     ,25,50, USA      ,2023,1,28,14
+42,43,celebrating friends birthday tonight ðÿž‚,Positive,28-01-2023 19:30, BirthdayBash , Facebook , #Birthday #Celebration                  ,15,30, UK ,2023,1,28,19
+43,44,feeling accomplished productive day,Positive,29-01-2023 17:00, ProductivityWin, Instagram , #Accomplished #Success               ,22,45, India ,2023,1,29,17
+44,45,cozy evening good movie,Positive,29-01-2023 20:20, MovieNight   , Twitter  , #CozyNight #MovieTime                   ,18,35, Canada   ,2023,1,29,20
+45,46,exploring local art galleries weekend,Positive,30-01-2023 11:30, ArtExplorer  , Facebook , #Art #GalleryExplore                    ,15,30, USA      ,2023,1,30,11
+46,47,new book release favorite author,Positive,30-01-2023 15:45, BookwormX    , Instagram , #BookRelease #FavoriteAuthor           ,12,25, UK   ,2023,1,30,15
+47,48,attending virtual reality meetup,Positive,30-01-2023 18:30, VRMeetup     , Twitter  , #VRMeetup #VirtualReality               ,28,55, India    ,2023,1,30,18
+48,49,reflecting beauty nature,Positive,31-01-2023 10:45, NatureLover  , Facebook , #Nature #Reflection                     ,15,30, Australia ,2023,1,31,10
+49,50,cooking special dinner loved ones,Positive,31-01-2023 19:00, ChefAtHome   , Instagram , #Cooking #SpecialDinner                ,20,40, USA       ,2023,1,31,19
+50,51,feeling optimistic week ahead,Positive,31-01-2023 16:20, OptimisticMindset, Twitter  , #Optimism #NewWeek                     ,15,30, Canada   ,2023,1,31,16
+51,52,starting new fitness challenge tomorrow ðÿ’ª,Positive,01-02-2023 08:00, FitnessChallenge, Facebook , #FitnessChallenge #NewBeginnings       ,22,45, UK         ,2023,2,1,8
+52,53,sunday bike ride scenic trails,Positive,01-02-2023 13:30, BikeExplorer  , Instagram , #BikeRide #ScenicTrails                ,18,35, USA     ,2023,2,1,13
+648,652,convinced teacher class outdoors learning equations side fresh air,Positive,06-08-2023 14:00, OutdoorClassHighSchool , Facebook , #OutdoorClassroom #HighSchoolExplorer ,28,55, USA,2023,8,6,14
+705,709,trying new study technique upcoming exams exploring different learning strategies,Neutral,02-10-2023 16:45, StudyTechniqueExperimentHighSchool , Instagram , #StudyStrategies #HighSchoolExams ,23,42, USA,2023,10,2,16
+706,710,organizing community cleanup event cleaner neighborhood promoting environmental awareness,Neutral,03-10-2023 12:30, CommunityCleanupHighSchool , Twitter , #EnvironmentalEfforts #HighSchoolCommunity ,26,50, Canada,2023,10,3,12
+707,711,sharing favorite book recommendations classmates building mini book club,Neutral,04-10-2023 18:20, BookRecommendationsHighSchool , Facebook , #BookClub #HighSchoolReads ,19,38, UK,2023,10,4,18
+708,712,experimenting new recipe school bake sale baking adventures kitchen,Neutral,05-10-2023 14:15, BakeSaleRecipeExperimentHighSchool , Instagram , #BakingAdventures #HighSchoolBakes ,21,43, USA,2023,10,5,14
+709,713,collaborating school project peers teamwork makes dream work,Neutral,06-10-2023 17:30, SchoolProjectCollaborationHighSchool , Twitter , #Teamwork #HighSchoolProjects ,18,36, Canada,2023,10,6,17
+710,714,attending school club meeting explore new interests dabbling extracurricular activities,Neutral,07-10-2023 20:45, ExtracurricularExplorationHighSchool , Instagram , #SchoolClubs #HighSchoolInterests ,22,45, UK,2023,10,7,20
+711,715,exploring new parttime job opportunity gaining work experience career development progress,Neutral,08-10-2023 15:15, PartTimeJobExplorationHighSchool , Facebook , #CareerDevelopment #HighSchoolJobs ,24,48, USA,2023,10,8,15
+712,716,attending school assembly stay informed upcoming events announcements staying connected school activities,Neutral,09-10-2023 22:00, SchoolAssemblyParticipationHighSchool , Twitter , #SchoolEvents #HighSchoolConnectivity ,20,40, Canada,2023,10,9,22
+713,717,exploring new hobby photography free time capturing moments lens,Neutral,10-10-2023 14:15, PhotographyHobbyHighSchool , Instagram , #PhotographyJourney #HighSchoolHobbies ,25,49, UK,2023,10,10,14
+714,718,participating science fair showcase unique experiment sharing knowledge peers,Neutral,11-10-2023 16:45, ScienceFairParticipationHighSchool , Facebook , #ScienceFair #HighSchoolScience ,19,37, USA,2023,10,11,16
+715,719,attending workshop time management enhance organizational skills striving efficiency,Neutral,12-10-2023 18:20, TimeManagementWorkshopHighSchool , Twitter , #EfficiencyGoals #HighSchoolSkills ,23,44, Canada,2023,10,12,18
+716,720,volunteering local charity event give back community contributing social causes,Neutral,13-10-2023 12:30, CharityEventVolunteerHighSchool , Instagram , #CommunityService #HighSchoolVolunteer ,20,39, UK,2023,10,13,12
+717,721,collaborating group project promote teamwork shared responsibilities group effort action,Neutral,14-10-2023 17:30, GroupProjectCollaborationHighSchool , Facebook , #TeamSpirit #HighSchoolProjects ,18,35, USA,2023,10,14,17
+718,722,participating debate club enhance critical thinking communication skills intellectual engagement progress,Neutral,15-10-2023 20:45, DebateClubParticipationHighSchool , Twitter , #DebateSkills #HighSchoolIntellect ,22,43, Canada,2023,10,15,20
